@@ -34,4 +34,5 @@ TRANSLATOR:
     function:
       - {target: ^gmk_alloc$, self: arr}
       - {target: ^gmk_expand$, self: arr}
+      - {target: ^gmk_func_ptr$, self: arr}
 
