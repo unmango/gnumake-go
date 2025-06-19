@@ -1,6 +1,6 @@
 # GNU Make Go
 
-Go bindings for GNU Make loading dynamic objects.
+Go bindings for GNU Make dynamic object loading.
 
 Generated with <https://github.com/xlab/c-for-go>.
 
