@@ -30,3 +30,8 @@ TRANSLATOR:
       - {transform: unexport}
     post-global:
       - {transform: export}
+  PtrTips:
+    function:
+      - {target: ^gmk_alloc$, self: arr}
+      - {target: ^gmk_expand$, self: arr}
+
